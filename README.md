@@ -95,14 +95,3 @@ The app automatically creates and maintains the following files in:
 * Flags anomalies when multiple statistical deviation rules are triggered.
 * Allows users to terminate or ignore suspicious processes via alert popups.
 
----
-
-## Credits
-
-Developed as part of the Coursework of **Software Engineering (CA725)**
-**Department of Computer Applications, NIT Trichy**
-
-**Contributors:**
-
-* Arjun Singh Panwar 
-* Sayantika Mondal 
